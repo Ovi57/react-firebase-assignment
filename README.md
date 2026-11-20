@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Routing & Firebase Authentication Assignment
 
 A simple React application demonstrating **React Router**, **Firebase Email/Password Authentication**, and **protected routes**. This project uses **Create React App (CRA)** with `react-scripts` (not Vite).
@@ -111,3 +112,7 @@ Do not commit `.env` or share your Firebase configuration in public screenshots.
 - [ ] Include screenshots of Home, Login, Register, Dashboard, and Profile.
 - [ ] Include a screenshot showing that a signed-out user is redirected from a protected route to Login.
 - [ ] Do not commit the `.env` file.
+=======
+# react-firebase-assignment
+cse-3532 assignment
+>>>>>>> 33256b2db13f3c9e0284133f8c6b14beb9cf2bc4
